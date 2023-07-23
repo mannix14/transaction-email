@@ -1,0 +1,4 @@
+fontcolor #3b444d
+fontcolor #b7b8ba
+
+background color #f3f4f6
